@@ -50,8 +50,8 @@ h1 {
 
 .list {
     background-color: #2564ff;
-    height: fit-content;
-    width: fit-contenty;
+    height: 800px;
+    width: 330px;
     margin-left: 400px;
     border-radius: 100px;
 }
