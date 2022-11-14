@@ -1,5 +1,5 @@
 body {
-    max-width: 100Hz;
+    max-width: 100%;
     font-family: "Itim", cursive;
 }
 
@@ -50,9 +50,9 @@ h1 {
 
 .list {
     background-color: #2564ff;
-    height: 400px;
-    width: fit-content;
-    margin-left: 300px;
+    height: fit-content;
+    width: fit-contenty;
+    margin-left: 400px;
     border-radius: 100px;
 }
 .liste {
@@ -97,7 +97,7 @@ img {
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bolder;
     font-family: "Itim", cursive;
     margin: 0 auto;
@@ -125,33 +125,4 @@ h2 {
 
 .max {
     max-width: 50px;
-}
-
-.gris {
-    text-align: start;
-}
-.bleu {
-    display: flex;
-    justify-self: center;
-    color: white;
-    background-color: #2564ff;
-    font-weight: bolder;
-    width: 200px;
-    border-radius: 60px;
-    text-align: center;
-}
-input {
-    font-size: 20px;
-    color: #787878;
-    background-color: #d9d9d9;
-    border: none;
-    height: 40px;
-    margin-bottom: 50px;
-
-    border-radius: 60px;
-    font-family: "Itim", cursive;
-    width: 500px;
-}
-.form {
-    display: flex;
 }
