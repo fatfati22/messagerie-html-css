@@ -104,9 +104,10 @@ h2 {
 .entremsg {
     display: grid;
 }
-.entresmsg {
+.entremsgs {
     margin-left: 100px;
     margin-top: 60px;
+    display: grid;
 }
 
 .mod {
